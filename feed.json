@@ -12,16 +12,16 @@
         {
             "id": "https://z-professor.github.io/hi.html",
             "url": "https://z-professor.github.io/hi.html",
-            "title": "hi",
-            "summary": "大家好",
-            "content_html": "<p>大家好</p>",
+            "title": "建站序",
+            "summary": "大家好。很高兴能再次建站。本人于上世纪98年开始做网站，直到现在再次建站，也是一种成长的过程。我很享受这个过程。",
+            "content_html": "<p>大家好。很高兴能再次建站。本人于上世纪98年开始做网站，直到现在再次建站，也是一种成长的过程。我很享受这个过程。</p>",
             "author": {
                 "name": "ZProfessor"
             },
             "tags": [
             ],
             "date_published": "2024-06-30T18:12:33+08:00",
-            "date_modified": "2024-06-30T18:29:46+08:00"
+            "date_modified": "2024-07-01T15:39:20+08:00"
         }
     ]
 }

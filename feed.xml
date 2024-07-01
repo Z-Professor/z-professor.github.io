@@ -3,14 +3,14 @@
     <title>ZProfessorBloger</title>
     <link href="https://z-professor.github.io/feed.xml" rel="self" />
     <link href="https://z-professor.github.io" />
-    <updated>2024-06-30T18:29:46+08:00</updated>
+    <updated>2024-07-01T15:39:20+08:00</updated>
     <author>
         <name>ZProfessor</name>
     </author>
     <id>https://z-professor.github.io</id>
 
     <entry>
-        <title>hi</title>
+        <title>建站序</title>
         <author>
             <name>ZProfessor</name>
         </author>
@@ -20,12 +20,12 @@
         <updated>2024-06-30T18:12:33+08:00</updated>
             <summary>
                 <![CDATA[
-                    大家好
+                    大家好。很高兴能再次建站。本人于上世纪98年开始做网站，直到现在再次建站，也是一种成长的过程。我很享受这个过程。
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>大家好</p>
+                <p>大家好。很高兴能再次建站。本人于上世纪98年开始做网站，直到现在再次建站，也是一种成长的过程。我很享受这个过程。</p>
             ]]>
         </content>
     </entry>
