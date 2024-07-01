@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "ZProfessorBloger",
+    "description": "",
+    "home_page_url": "https://z-professor.github.io",
+    "feed_url": "https://z-professor.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "ZProfessor"
+    },
+    "items": [
+        {
+            "id": "https://z-professor.github.io/hi.html",
+            "url": "https://z-professor.github.io/hi.html",
+            "title": "hi",
+            "summary": "大家好",
+            "content_html": "<p>大家好</p>",
+            "author": {
+                "name": "ZProfessor"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-06-30T18:12:33+08:00",
+            "date_modified": "2024-06-30T18:29:46+08:00"
+        }
+    ]
+}

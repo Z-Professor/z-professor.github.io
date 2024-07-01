@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>ZProfessorBloger</title>
+    <link href="https://z-professor.github.io/feed.xml" rel="self" />
+    <link href="https://z-professor.github.io" />
+    <updated>2024-06-30T18:29:46+08:00</updated>
+    <author>
+        <name>ZProfessor</name>
+    </author>
+    <id>https://z-professor.github.io</id>
+
+    <entry>
+        <title>hi</title>
+        <author>
+            <name>ZProfessor</name>
+        </author>
+        <link href="https://z-professor.github.io/hi.html"/>
+        <id>https://z-professor.github.io/hi.html</id>
+
+        <updated>2024-06-30T18:12:33+08:00</updated>
+            <summary>
+                <![CDATA[
+                    大家好
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>大家好</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
