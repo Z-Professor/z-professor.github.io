@@ -3,7 +3,7 @@
     <title>ZProfessorBloger</title>
     <link href="https://z-professor.github.io/feed.xml" rel="self" />
     <link href="https://z-professor.github.io" />
-    <updated>2024-07-01T15:55:24+08:00</updated>
+    <updated>2024-07-02T00:25:34+08:00</updated>
     <author>
         <name>ZProfessor</name>
     </author>
@@ -16,6 +16,7 @@
         </author>
         <link href="https://z-professor.github.io/hi.html"/>
         <id>https://z-professor.github.io/hi.html</id>
+            <category term="免费"/>
 
         <updated>2024-06-30T18:12:33+08:00</updated>
             <summary>
