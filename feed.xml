@@ -3,7 +3,7 @@
     <title>ZProfessorBloger</title>
     <link href="https://z-professor.github.io/feed.xml" rel="self" />
     <link href="https://z-professor.github.io" />
-    <updated>2024-07-02T01:51:24+08:00</updated>
+    <updated>2024-07-02T01:53:22+08:00</updated>
     <author>
         <name>ZProfessor</name>
     </author>
@@ -21,7 +21,7 @@
         <updated>2024-07-02T01:17:47+08:00</updated>
             <summary>
                 <![CDATA[
-                    本站建立就是使用Publii，而我对程序代码只能说是似懂非懂。所以我向各位想要使用Github建立免费个人博客的网友，隆重介绍这款网站生成器Publii。 首先我把我参考和学习的网络教学提供给各位： 【小羿】Publii+ GitHub：免费搭建个人博客网站，无需服务器和域名 【科技Ins】Publii和GitHub：搭建个人网站的完美组合 通过以上两篇教学我想各位估计已经能够建立自己的博客系统了，我觉得我只需要补充一下我个人的经验便可，首先访问地址和建立项目仓库的名称一定要是XXX.github.io，否则将无法直接使用.github.io地址访问，由于在教学中我并未留意这个细节，而是凭感觉直接使用字母XXX，造成无法使用.github.io格式地址访问网站。其次密令输入的不是网站密码，而是后来生成的项目仓库密钥，也就是教学里提到的token。 =================关于Publii服务器设置====================== =================最后提供相关的地址======================= 官方网站： https://getpublii.com 网站主题： https://marketplace.getpublii.com/themes 中文语言： https://github.com/GetPublii/Publii-ui-locales 中文语言网盘下载： https://www.123pan.com/s/c8zA-5u6N3.html GitHub： https://github.com
+                    本站建立就是使用Publii，而我对程序代码只能说是似懂非懂。所以我向各位想要使用Github建立免费个人博客的网友，隆重介绍这款网站生成器Publii。 首先我把我参考和学习的网络教学提供给各位： 【小羿】Publii+ GitHub：免费搭建个人博客网站，无需服务器和域名 【科技Ins】Publii和GitHub：搭建个人网站的完美组合 通过以上两篇教学我想各位估计已经能够建立自己的博客系统了，我觉得我只需要补充一下我个人的经验便可，首先访问地址和建立项目仓库的名称一定要是XXX.github.io，否则将无法直接使用.github.io地址访问，由于在教学中我并未留意这个细节，而是凭感觉直接使用字母XXX，造成无法使用.github.io格式地址访问网站。其次密令输入的不是网站密码，而是后来生成的项目仓库密钥，也就是教学里提到的token。 ======关于Publii服务器设置====== ======最后提供相关的地址====== 官方网站： https://getpublii.com 网站主题： https://marketplace.getpublii.com/themes 中文语言： https://github.com/GetPublii/Publii-ui-locales 中文语言网盘下载： https://www.123pan.com/s/c8zA-5u6N3.html GitHub： https://github.com
                 ]]>
             </summary>
         <content type="html">
@@ -29,7 +29,7 @@
                 <p>本站建立就是使用<a href="https://getpublii.com" target="_blank" rel="noopener noreferrer">Publii</a>，而我对程序代码只能说是似懂非懂。所以我向各位想要使用<a href="https://github.com" target="_blank" rel="noopener noreferrer">Github</a>建立免费个人博客的网友，隆重介绍这款网站生成器Publii。</p>
 <p>首先我把我参考和学习的网络教学提供给各位：<br>【<a href="https://xiaoyi.vc/">小羿</a>】<a href="https://xiaoyi.vc/publii-github.html" target="_blank" rel="noopener noreferrer">Publii+ GitHub：免费搭建个人博客网站，无需服务器和域名</a><br>【<a href="https://blog.csdn.net/Prince_WCS" target="_blank" class="" id="uid" title="科技Ins" data-report-click="{&quot;mod&quot;:&quot;popu_379&quot;,&quot;spm&quot;:&quot;1001.2101.3001.4122&quot;,&quot;dest&quot;:&quot;https://blog.csdn.net/Prince_WCS&quot;,&quot;ab&quot;:&quot;new&quot;}" rel="noopener"><span class="name ">科技Ins</span></a>】<a href="https://blog.csdn.net/Prince_WCS/article/details/136554894" target="_blank" rel="noopener noreferrer">Publii和GitHub：搭建个人网站的完美组合</a></p>
 <p>通过以上两篇教学我想各位估计已经能够建立自己的博客系统了，我觉得我只需要补充一下我个人的经验便可，首先访问地址和建立项目仓库的名称一定要是<span style="text-decoration: underline;"><span style="color: #843fa1; text-decoration: underline;">XXX</span>.github.io</span>，否则将无法直接使用.github.io地址访问，由于在教学中我并未留意这个细节，而是凭感觉直接使用字母XXX，造成无法使用<span style="color: #843fa1;">.github.io</span>格式地址访问网站。其次密令输入的不是网站密码，而是后来生成的项目仓库密钥，也就是教学里提到的<span style="text-decoration: underline; color: #843fa1;">token</span>。</p>
-<p>=================关于Publii服务器设置======================</p>
+<p>======关于Publii服务器设置======</p>
 <ul>
 <li>网址（<span style="text-decoration: underline;"><strong>XXX.github.io</strong></span>）：和我们在GitHub上创建的仓库名是一致的</li>
 <li>sync.repositoryUrl（存储库URL)：这里填写上面复制的git文件的访问地址</li>
@@ -38,7 +38,7 @@
 <li>sync.commitAuthor：GitHub账号的用户名称</li>
 <li>sync.commitEmail：GitHub账号的邮箱地址</li>
 </ul>
-<p>=================最后提供相关的地址=======================</p>
+<p>======最后提供相关的地址======</p>
 <ul class="list-paddingleft-1">
 <li><strong>官方网站：<br></strong>https://getpublii.com</li>
 <li><strong>网站主题：<br></strong>https://marketplace.getpublii.com/themes</li>
