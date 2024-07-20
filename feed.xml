@@ -3,7 +3,7 @@
     <title>Z-Professor ✒ Bloger</title>
     <link href="https://z-professor.github.io/feed.xml" rel="self" />
     <link href="https://z-professor.github.io" />
-    <updated>2024-07-21T00:27:49+08:00</updated>
+    <updated>2024-07-21T00:31:14+08:00</updated>
     <author>
         <name>ZProfessor</name>
     </author>
@@ -154,21 +154,18 @@
         <updated>2024-07-03T00:59:00+08:00</updated>
             <summary>
                 <![CDATA[
-                    ______ _ _ _ | ___| | | | | | | |_ __ _| | | ___ _ _| |_ | _/ _` | | |/ _ \| |&hellip;
+                    ______ _ _ _ | ____| | | | | | | |__ __ _| | | ___ _ _| |_ | __/ _` | | |/ _ \| |&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <div class="fig">
-<pre id="taag_font_Doom" class="fig" >______    _ _             _   
-|  ___|  | | |           | |  
-| |_ __ _| | | ___  _   _| |_ 
-|  _/ _` | | |/ _ \| | | | __|
-| || (_| | | | (_) | |_| | |_ 
-\_| \__,_|_|_|\___/ \__,_|\__|
-                              
-                              </pre>
-</div>
+                <pre id="taag_font_Big" class="fig" >  ______    _ _             _   
+ |  ____|  | | |           | |  
+ | |__ __ _| | | ___  _   _| |_ 
+ |  __/ _` | | |/ _ \| | | | __|
+ | | | (_| | | | (_) | |_| | |_ 
+ |_|  \__,_|_|_|\___/ \__,_|\__|
+                                </pre>
 <p>辐射是一个非常棒的沙盒RPG游戏，而该系列的每一作游戏都是值得细细品味的。同时也拍摄出来了非常还原游戏的美剧。</p>
 <p>以上是Z教授笔记记录_于20240703</p>
 <hr>
