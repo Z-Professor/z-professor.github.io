@@ -3,32 +3,12 @@
     <title>Z-Professor ✒ Bloger</title>
     <link href="https://z-professor.github.io/feed.xml" rel="self" />
     <link href="https://z-professor.github.io" />
-    <updated>2024-07-31T22:59:23+08:00</updated>
+    <updated>2024-07-26T00:24:08+08:00</updated>
     <author>
         <name>ZProfessor</name>
     </author>
     <id>https://z-professor.github.io</id>
 
-    <entry>
-        <title>999</title>
-        <author>
-            <name>ZProfessor</name>
-        </author>
-        <link href="https://z-professor.github.io/999.html"/>
-        <id>https://z-professor.github.io/999.html</id>
-
-        <updated>2024-07-31T22:59:23+08:00</updated>
-            <summary>
-                <![CDATA[
-                    999
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>999</p>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>计算机复古必备之“虚拟机”</title>
         <author>

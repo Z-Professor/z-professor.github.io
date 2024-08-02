@@ -10,20 +10,6 @@
     },
     "items": [
         {
-            "id": "https://z-professor.github.io/999.html",
-            "url": "https://z-professor.github.io/999.html",
-            "title": "999",
-            "summary": "999",
-            "content_html": "<p>999</p>",
-            "author": {
-                "name": "ZProfessor"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-07-31T22:59:23+08:00",
-            "date_modified": "2024-07-31T22:59:23+08:00"
-        },
-        {
             "id": "https://z-professor.github.io/1-2.html",
             "url": "https://z-professor.github.io/1-2.html",
             "title": "计算机复古必备之“虚拟机”",
