@@ -3,7 +3,7 @@
     <title>Z-Professor ✒ Bloger</title>
     <link href="https://z-professor.github.io/feed.xml" rel="self" />
     <link href="https://z-professor.github.io" />
-    <updated>2024-08-05T23:55:27+08:00</updated>
+    <updated>2024-08-06T00:08:31+08:00</updated>
     <author>
         <name>ZProfessor</name>
     </author>
@@ -163,10 +163,22 @@
         </author>
         <link href="https://z-professor.github.io/1.html"/>
         <id>https://z-professor.github.io/1.html</id>
+            <category term="游戏"/>
 
         <updated>2024-07-05T00:40:44+08:00</updated>
-            <summary></summary>
-        <content></content>
+            <summary>
+                <![CDATA[
+                    🎞️ 电影大亨 📹 🅣🅗🅔🎬🅜🅞🅥🅘🅔
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h1 class="align-center">🎞️ 电影大亨 📹  <br><span style="color: #e03e2d;">🅣</span>🅗🅔🎬<span style="color: #b96ad9;">🅜</span>🅞🅥🅘🅔</h1>
+<p> </p>
+<hr>
+<p> </p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>GTA系列共享</title>
